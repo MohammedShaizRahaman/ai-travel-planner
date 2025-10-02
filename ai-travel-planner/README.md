@@ -124,12 +124,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots of login page, trip planner, and AI itinerary here.*
-
----
-
 ## 📝 Future Improvements
 
 * Google Maps API integration
@@ -144,5 +138,3 @@ npm run dev
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
 ---
-
-Do you want me to also **add sample API requests (with cURL or Postman JSON collection)** in the README so developers can test the endpoints quickly?
